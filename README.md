@@ -32,7 +32,7 @@ This project applies Python data science tools to the Kaggle Titanic dataset, co
    ```
 3. Launch Jupyter Notebook:
    ```
-   jupyter notebook Titanic_Data_Science_Project.ipynb
+   jupyter notebook 01257891B_Amankrah_DataScience.ipynb
    ```
 4. Run all cells (Kernel > Restart & Run All).
 
